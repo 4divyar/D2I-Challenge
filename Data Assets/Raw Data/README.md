@@ -7,3 +7,7 @@ Gas and Oil Production Data: https://globalenergymonitor.org/projects/asia-gas-t
 Drought Risk Data: https://droughtmonitor.unl.edu/DmData/DataDownload/WebServiceInfo.aspx#wks
 
 Wildfire Hazard Potential Data: https://research.fs.usda.gov/firelab/products/dataandtools/wildfire-hazard-potential
+
+State Shapefile: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=States+%28and+equivalent%29
+
+County Shapefile: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=Counties+%28and+equivalent%29
