@@ -1,4 +1,4 @@
-This folder contains all of the original data sets.
+This folder contains all of the original data sets that were used.
 
 Wind Power Plant Data: https://globalenergymonitor.org/projects/global-wind-power-tracker/download-data/
 
@@ -11,3 +11,5 @@ Wildfire Hazard Potential Data: https://research.fs.usda.gov/firelab/products/da
 State Shapefile: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=States+%28and+equivalent%29
 
 County Shapefile: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=Counties+%28and+equivalent%29
+
+US Census State and County Shapefile: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
