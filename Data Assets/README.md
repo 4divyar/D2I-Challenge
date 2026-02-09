@@ -3,7 +3,7 @@ This folder contains original and cleaned datasets, the scripts used to clean th
 ## Folder Descriptions
 - Raw Data: Holds all the shapefiles (state and county) and raw datasets for all environmental factors. 
 - Cleaning: Holds the scripts and notebooks that were used to clean and merge datasets. 
-## Data Dictionary for `final.csv`
+## Data Dictionary for `final_dataset.csv`
 | Column Name                     | Data Type | Description |
 |---------------------------------|-----------|-------------|
 | GEOID                            | int  | Unique identifier for each county |
