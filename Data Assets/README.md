@@ -6,7 +6,7 @@ This folder contains original and cleaned datasets, the scripts used to clean th
 ## Data Dictionary for `final.csv`
 | Column Name                     | Data Type | Description |
 |---------------------------------|-----------|-------------|
-| GEOID                            | int/str   | Unique identifier for each county |
+| GEOID                            | int  | Unique identifier for each county |
 | County                           | str       | Name of the county |
 | State                            | str       | State abbreviation (e.g., CA, TX) |
 | State Name                       | str       | Full name of the state |
