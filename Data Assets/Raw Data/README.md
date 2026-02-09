@@ -11,4 +11,4 @@ This folder contains all of the original data sets that were used.
 ### Shapefiles
 * State Shapefile (used in `cleaner.ipynb`): https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=States+%28and+equivalent%29
 * County Shapefile (used in `cleaner.ipynb`): https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=Counties+%28and+equivalent%29
-* US Census State and County Shapefile: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+* US Census State and County Shapefile (used in `final_combine.ipynb`): https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
