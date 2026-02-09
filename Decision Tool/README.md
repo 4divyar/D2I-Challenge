@@ -1,10 +1,11 @@
-## This folder holds our decision tool of choice, an interactive Web App, and the scripts that deploy this app.
+# Decision Tool
+This folder holds our decision tool of choice, an interactive Web App, and the scripts that deploy this app.
 
-### File Descriptions
+## File Descriptions
 app.py: The main python script that creates and deploys the web app.
 
 changed_data.csv: The final dataset used in the creation of the web app.
 
 requirements.txt: A file that include all necessary dependencies to successfully run the app.py.
 
-### Data Center Environmental Siting Optimizer App: https://sahana-siting.streamlit.app 
+## Data Center Environmental Siting Optimizer App: https://sahana-siting.streamlit.app 
